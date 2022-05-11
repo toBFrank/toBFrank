@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @toBFrank
-- 👀 I’m interested in mobile development
-- 🌱 I’m currently learning Python and basic computer science in university & "HTML, CSS, and Javascript for Web Developers" in Coursera
-- 💞️ I’m looking to collaborate on nothing at the moment
+- 👀 I’m interested in web development
+- 🌱 I’m currently studying computer science in university & "HTML, CSS, and Javascript for Web Developers" in Coursera
 - 📫 How to reach me: bonilla.franco484@gmail.com | (587) 568-4316 | Instagram: @b_frank484
 
 <!---
